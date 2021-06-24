@@ -1,0 +1,20 @@
+.materialIcons {
+  position: relative;
+  margin-left: 0.5%;
+}
+
+.nextIcon {
+  position: inherit;
+  float: right;
+  margin-top: -0.25em;
+  margin-right: 34.2em;
+}
+
+svg.materialIcons path {
+  fill: rgb(0, 181, 241);
+}
+
+.poweredBy {
+  position: relative;
+  margin-left: 34em;
+}

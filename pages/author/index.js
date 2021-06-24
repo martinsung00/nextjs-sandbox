@@ -1,5 +1,7 @@
+import styles from "../../styles/Home.module.css";
+
 const Author = () => (
-  <div>
+  <div className={styles.container}>
     <h1>About me</h1>
     <br />
     <p>
